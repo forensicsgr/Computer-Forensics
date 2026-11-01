@@ -1,0 +1,1 @@
+For this exercise, you will need to use the image from Exercise 7.3
