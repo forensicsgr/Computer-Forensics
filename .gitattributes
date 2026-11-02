@@ -2,6 +2,6 @@
 *.dmp filter=lfs diff=lfs merge=lfs -text
 *.e01 filter=lfs diff=lfs merge=lfs -text
 *.dd filter=lfs diff=lfs merge=lfs -text
-Exercises/Exercise_2.2/strings.txt filter=lfs diff=lfs merge=lfs -text
-Exercises/Exercise_2.2/bitlocker.txt !text !filter !merge !diff
+
+Exercise_2.2/bitlocker.txt !text !filter !merge !diff
 Exercise_2.2/strings.txt filter=lfs diff=lfs merge=lfs -text
