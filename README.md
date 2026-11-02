@@ -1,2 +1,1 @@
-# Computer-Forensics
-This Repository was created to host some of the contents used in the labs of the course **Penetration Testing** of the International Hellenic University
+### This Folder contains the Exercises that are part of the Computer Forensics class of the International Hellenic University
